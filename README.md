@@ -1,4 +1,4 @@
-<center>
+
 # Raspberry pi zero 2 case with screen
 
 
@@ -24,4 +24,4 @@ A simple case design created with the intention of replacing an expensive origin
 [raspberry.obj](raspberry.obj)
 ### F3D:
 [raspberry.f3z](raspberry.f3d)
-<center>
+\
